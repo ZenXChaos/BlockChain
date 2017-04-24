@@ -1,4 +1,4 @@
-# Simple BlockChain Example
+# PHP-Blockchain
 
 Original Concept: https://github.com/rhondle/BlockChain
 A very simple BlockChain implementation intended to illustrate the concept.
